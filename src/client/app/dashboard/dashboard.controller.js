@@ -36,7 +36,7 @@ var app;
             };
             DashboardController.$inject = ['$q', 'dataservice', 'logger'];
             return DashboardController;
-        })();
+        })(); //
         dashboard.DashboardController = DashboardController;
         angular
             .module('app.dashboard')

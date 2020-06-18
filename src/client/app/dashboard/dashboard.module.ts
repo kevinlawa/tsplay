@@ -5,4 +5,4 @@ namespace app.dashboard {
         'app.core',
         'app.widgets'
       ]);
-}
+}//
